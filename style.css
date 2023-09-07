@@ -1,0 +1,65 @@
+#right {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    bottom: 0;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+#left{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    bottom: 0;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+#title{
+    text-align: center;
+    font-size: 80px;
+}
+.vards{
+    text-align: center;
+    font-family: "Fredoka One", cursive;    
+    font-size: 55px;
+}
+.textt{
+    text-align: center;
+    font-size: 50px;
+}
+.slide2text{
+    text-align: center;
+    font-size: 60px;
+    font-family: "Fredoka One", cursive;  
+}
+*{
+    background-color: rgb(230, 211, 187);
+}
+
+
+
+
+.aplis{
+    position: absolute;
+    bottom: 0;
+    right: 43%;
+}
+
+
+.circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgb(176, 250, 39); 
+    display: inline-block;
+    margin-right: 10px;
+}
+.black {
+    background-color: black; 
+}
+
+
+
+
